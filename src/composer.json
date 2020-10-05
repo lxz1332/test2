@@ -1,0 +1,13 @@
+{
+    "name": "cwkj/test2",
+    "description": "这是我创项目",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"Oscar\\Test\\":"src/"
+		}
+	}
+}
